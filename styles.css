@@ -1,0 +1,25 @@
+
+
+body {
+   
+    background-color: #fbe9d6;
+    color: #7b4d3a;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+ul{
+    list-style-type: none;
+
+}
+
+li {
+    font-size: 1.4em;
+    border-bottom: 1px solid #7b4d3a;
+    padding: 10px 0;
+   
+}
